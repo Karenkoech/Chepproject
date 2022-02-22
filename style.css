@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    background-image: url(./images/cat\ pics.jpeg);
+    background-repeat: no-repeat;
+}
+h1{
+    color: blueviolet;
+    font-size: 30px;
+}
+    .nav{
+        text-align: left;
+        color:orange;
+        font-size: 20px;
+    }
